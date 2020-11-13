@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+'The sexiest people are thinkers' - Vivienne Westwood
 Use the left arrow to go back!
